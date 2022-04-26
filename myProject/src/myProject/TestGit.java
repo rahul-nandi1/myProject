@@ -6,6 +6,7 @@ public class TestGit {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Welcome to Git");
+		System.out.println("I love mindtree");
 
 	}
 
